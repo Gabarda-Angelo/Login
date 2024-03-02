@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TalaCemeteryApp/static/css/main.1acb02ec.css",
+    "main.js": "/TalaCemeteryApp/static/js/main.a557d60e.js",
+    "static/js/787.3408a8be.chunk.js": "/TalaCemeteryApp/static/js/787.3408a8be.chunk.js",
+    "static/media/Canelo.png": "/TalaCemeteryApp/static/media/Canelo.a8dfeed0f824e7e438dd.png",
+    "static/media/imgGoogle.jpg": "/TalaCemeteryApp/static/media/imgGoogle.9034deebff236a3dedce.jpg",
+    "index.html": "/TalaCemeteryApp/index.html",
+    "main.1acb02ec.css.map": "/TalaCemeteryApp/static/css/main.1acb02ec.css.map",
+    "main.a557d60e.js.map": "/TalaCemeteryApp/static/js/main.a557d60e.js.map",
+    "787.3408a8be.chunk.js.map": "/TalaCemeteryApp/static/js/787.3408a8be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1acb02ec.css",
+    "static/js/main.a557d60e.js"
+  ]
+}
